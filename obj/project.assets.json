@@ -9554,16 +9554,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/todolist-in-csharp-master/task.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/todolist with categories/task.csproj",
       "projectName": "task",
-      "projectPath": "/Users/Guest/Desktop/todolist-in-csharp-master/task.csproj",
-      "outputPath": "/Users/Guest/Desktop/todolist-in-csharp-master/obj/",
+      "projectPath": "/Users/Guest/Desktop/todolist with categories/task.csproj",
+      "outputPath": "/Users/Guest/Desktop/todolist with categories/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/task.dll": "/Users/Guest/Desktop/todolist-in-csharp-master/bin/placeholder/netcoreapp1.1/task.dll"
+        "lib/netcoreapp1.1/task.dll": "/Users/Guest/Desktop/todolist with categories/bin/placeholder/netcoreapp1.1/task.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

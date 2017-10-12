@@ -14,3 +14,11 @@
 /Users/Guest/Desktop/todolist-in-csharp-master/obj/Debug/netcoreapp1.1/task.pdb
 /Users/Guest/Desktop/todolist-in-csharp-master/bin/Debug/netcoreapp1.1/task.dll
 /Users/Guest/Desktop/todolist-in-csharp-master/bin/Debug/netcoreapp1.1/task.pdb
+/Users/Guest/Desktop/todolist with categories/bin/Debug/netcoreapp1.1/task.deps.json
+/Users/Guest/Desktop/todolist with categories/bin/Debug/netcoreapp1.1/task.runtimeconfig.json
+/Users/Guest/Desktop/todolist with categories/bin/Debug/netcoreapp1.1/task.runtimeconfig.dev.json
+/Users/Guest/Desktop/todolist with categories/bin/Debug/netcoreapp1.1/task.dll
+/Users/Guest/Desktop/todolist with categories/bin/Debug/netcoreapp1.1/task.pdb
+/Users/Guest/Desktop/todolist with categories/obj/Debug/netcoreapp1.1/task.AssemblyInfo.cs
+/Users/Guest/Desktop/todolist with categories/obj/Debug/netcoreapp1.1/task.dll
+/Users/Guest/Desktop/todolist with categories/obj/Debug/netcoreapp1.1/task.pdb

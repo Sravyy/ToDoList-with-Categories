@@ -17,7 +17,7 @@ namespace ToDoList.Controllers
     public ActionResult Categories()
     {
       List<Category> allCategories = Category.GetAll();
-      return View( );
+      return View(allCategories);
     }
 
     [HttpGet("/categories/form")]
